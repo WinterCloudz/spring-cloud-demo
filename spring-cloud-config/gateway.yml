@@ -31,10 +31,3 @@ zuul:
 
 server:
   port: 4000
-
-eureka:
-  instance:
-    instanceId: ${spring.application.name}:${random.value} 
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:9001/eureka

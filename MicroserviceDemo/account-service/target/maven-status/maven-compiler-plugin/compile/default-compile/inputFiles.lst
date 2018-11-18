@@ -1,3 +1,3 @@
-/Users/dchowdhu/eclipse-workspace/MicroserviceDemo/account-service/src/main/java/com/piggymetrics/account/controller/AccountController.java
-/Users/dchowdhu/eclipse-workspace/MicroserviceDemo/account-service/src/main/java/com/piggymetrics/account/AccountApplication.java
-/Users/dchowdhu/eclipse-workspace/MicroserviceDemo/account-service/src/main/java/com/piggymetrics/account/domain/Account.java
+/Users/dchowdhu/eclipse-workspace/spring-cloud-demo/MicroserviceDemo/account-service/src/main/java/com/piggymetrics/account/domain/Account.java
+/Users/dchowdhu/eclipse-workspace/spring-cloud-demo/MicroserviceDemo/account-service/src/main/java/com/piggymetrics/account/AccountApplication.java
+/Users/dchowdhu/eclipse-workspace/spring-cloud-demo/MicroserviceDemo/account-service/src/main/java/com/piggymetrics/account/controller/AccountController.java

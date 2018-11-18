@@ -1,6 +1,6 @@
-/Users/dchowdhu/eclipse-workspace/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/services/NotificationService.java
-/Users/dchowdhu/eclipse-workspace/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/services/RemoteAccountService.java
-/Users/dchowdhu/eclipse-workspace/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/services/NotificationServiceImpl.java
-/Users/dchowdhu/eclipse-workspace/MicroserviceDemo/notification-service/src/main/java/com/piggymetrices/notification/domain/Account.java
-/Users/dchowdhu/eclipse-workspace/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/controller/NotificationController.java
-/Users/dchowdhu/eclipse-workspace/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/NotificationServiceApplication.java
+/Users/dchowdhu/eclipse-workspace/spring-cloud-demo/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/services/NotificationServiceImpl.java
+/Users/dchowdhu/eclipse-workspace/spring-cloud-demo/MicroserviceDemo/notification-service/src/main/java/com/piggymetrices/notification/domain/Account.java
+/Users/dchowdhu/eclipse-workspace/spring-cloud-demo/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/services/NotificationService.java
+/Users/dchowdhu/eclipse-workspace/spring-cloud-demo/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/services/RemoteAccountService.java
+/Users/dchowdhu/eclipse-workspace/spring-cloud-demo/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/NotificationServiceApplication.java
+/Users/dchowdhu/eclipse-workspace/spring-cloud-demo/MicroserviceDemo/notification-service/src/main/java/com/piggymetrics/notification/controller/NotificationController.java
