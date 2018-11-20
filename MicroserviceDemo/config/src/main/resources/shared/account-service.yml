@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: account-service
+    
+      
+feign:
+  hystrix:
+    enabled: true 
+    
+
+server:
+  port: 8088            
+            
+                   
